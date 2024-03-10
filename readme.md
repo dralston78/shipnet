@@ -1,4 +1,4 @@
-## Rotational Invariance Learning of Satellite Images
+## Shipnet -- Rotational Invariance Learning of Satellite Images
 
 ## Project Overview
 

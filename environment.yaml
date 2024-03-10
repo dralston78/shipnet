@@ -1,0 +1,21 @@
+name: shipnet
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - numpy 
+    - pandas
+    - scikit-learn
+    - matplotlib
+    - torch
+    - torchvision
+    - pytorch-lightning
+    - pytorch-lightning-bolts
+    - wandb
+    - -e .
+    - scipy
+    - git+https://github.com/AMLab-Amsterdam/lie_learn 
+    - escnn

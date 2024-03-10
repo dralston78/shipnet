@@ -1,0 +1,17 @@
+setup.py
+src/__init__.py
+src/train.py
+src.egg-info/PKG-INFO
+src.egg-info/SOURCES.txt
+src.egg-info/dependency_links.txt
+src.egg-info/requires.txt
+src.egg-info/top_level.txt
+src/data/__init__.py
+src/data/ship_datamodule.py
+src/data/components/__init__.py
+src/data/components/ship_dataset.py
+src/models/__init__.py
+src/models/shipnet.py
+src/models/components/__init__.py
+src/models/components/steerable_cnn.py
+src/models/components/test_cnn.py

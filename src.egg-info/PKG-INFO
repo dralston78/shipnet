@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: Ship classification project using geometric deep learning
+Requires-Dist: lightning
+Requires-Dist: hydra-core
